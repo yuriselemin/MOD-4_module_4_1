@@ -1,6 +1,8 @@
 import fake_math as fm
 import true_math as tm
 
+
+
 fake_divide = fm.divide
 true_divide = tm.divide
 
@@ -13,3 +15,7 @@ print(result1)
 print(result2)
 print(result3)
 print(result4)
+
+
+
+
